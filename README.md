@@ -6,8 +6,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=vu-kevin-coder&label=Profile%20views&color=0e75b6&style=flat" alt="vu-kevin-coder" />
 &nbsp;
-<a href="https://twitter.com/ugcounsel2" target="blank">
-  <img src="https://img.shields.io/twitter/follow/ugcounsel2?logo=twitter&style=for-the-badge" alt="ugcounsel2" />
+<a href="https://twitter.com/covnull" target="blank">
+  <img src="https://img.shields.io/twitter/follow/CovNull?logo=twitter&style=for-the-badge" alt="CovNull" />
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
