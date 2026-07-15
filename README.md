@@ -22,7 +22,7 @@
 
 | 💼 | Details |
 |---|---|
-| 🔭 **Currently Working On** | DevOps [School Management System](https://kevin.kesug.com/?i=2) |
+| 🔭 **Currently Working On** | DevOps [School Management System](https://github.com/VU-Kevin-coder/SchoolOS) |
 | 🌱 **Currently Learning** | **Python** & **Systems Analysis and Design** |
 | 👯 **Looking to Collaborate On** | [Forest Knight](https://github.com/ForrestKnight/ForrestKnight) |
 | 🤝 **Looking for Help With** | [AWS](https://learn.nextwork.org/) |
