@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Kevin Kansiime
+# Hi 👋, I'm Kevin K
 
 ### 🚀 A passionate Software Engineer from Uganda 🇺🇬
 
@@ -22,38 +22,14 @@
 
 | 💼 | Details |
 |---|---|
-| 🔭 **Currently Working On** | DevOps [School Management System](https://github.com/VU-Kevin-coder/SchoolOS) |
-| 🌱 **Currently Learning** | **Python** & **Systems Analysis and Design** |
-| 👯 **Looking to Collaborate On** | [Forest Knight](https://github.com/ForrestKnight/ForrestKnight) |
-| 🤝 **Looking for Help With** | [AWS](https://learn.nextwork.org/) |
-| 👨‍💻 **All My Projects** | [kevin.kesug.com](https://kevin.kesug.com/?i=2) |
-| 📝 **I Write Articles On** | [kevin.kesug.com](https://kevin.kesug.com/?i=2) |
-| 💬 **Ask Me About** | **PHP** & **Laravel** |
-| 📫 **Reach Me At** | **kevindaroyal03@gmail.com** |
-| 📄 **My Experiences** | [View Resume](https://kevin.kesug.com/?i=1) |
-| ⚡ **Fun Fact** | I think I'm funny 😄 |
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/ugcounsel2" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ugcounsel2" height="40" width="50" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/kansiimekevin" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kansiimekevin" height="40" width="50" />
-  </a>&nbsp;&nbsp;
-  <a href="https://fb.com/fcstanley2" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fcstanley2" height="40" width="50" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/fcstanley2" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fcstanley2" height="40" width="50" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/c/vu-kevin" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vu-kevin" height="40" width="50" />
-  </a>
-</p>
+|  **Currently Working On** | DevOps [School Management System](https://github.com/VU-Kevin-coder/SchoolOS) |
+|  **Currently Learning** | **Python** & **Systems Analysis and Design** |
+|  **Looking to Collaborate On** | [Forest Knight](https://github.com/ForrestKnight/ForrestKnight) |
+|  **All My Projects** | [kevin.kesug.com](https://kevin.kesug.com/?i=2) |
+|  **Ask Me About** | **PHP** & **Laravel** |
+|  **Reach Me At** | **kevindaroyal03@gmail.com** |
+|  **My Experiences** | [View Resume](https://kevin.kesug.com/?i=1) |
+|  **Fun Fact** | I think I'm funny  |
 
 ---
 
@@ -66,13 +42,7 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 </p>
 
 ### 🎨 Frontend Development
@@ -112,32 +82,6 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-</p>
-
-### ☁️ DevOps & Cloud
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="hexo.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/></a>
-</p>
-
-### 🤖 Data Science & AI
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-</p>
-
-### 🎮 Other Tools & Platforms
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
 
 ---
